@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<employes>
+    <employee>
+        <fullname>ljdghkjdh</fullname>
+        <birthday_date>2000-05-26</birthday_date>
+        <department>dev</department>
+        <salary_type>hourly</salary_type>
+        <salary>50</salary>
+        <hours>5</hours>
+    </employee>
+    <employee>
+        <fullname>Andrey</fullname>
+        <birthday_date>2000-04-21</birthday_date>
+        <department>dev</department>
+        <salary_type>rate</salary_type>
+        <salary>600</salary>
+        <hours>null</hours>
+    </employee>
+</employes>
